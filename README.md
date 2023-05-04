@@ -1,1 +1,1 @@
-# RealvsAI_Images
+# Real_vs_AI_Images
